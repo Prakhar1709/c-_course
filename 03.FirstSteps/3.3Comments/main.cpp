@@ -8,7 +8,7 @@
     lines of text
 */
 
-
+//block comments can't be nested
 
 
 int main(){
