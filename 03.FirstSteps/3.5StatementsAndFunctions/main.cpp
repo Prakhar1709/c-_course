@@ -22,7 +22,7 @@ int main(){
     sum = addNumbers(30,54);
     std::cout << "Sum : " << sum << std::endl;
 
-    std::cout << "Sum : " << addNumbers(3,42) << std::endl;
+    std::cout << "Sum : " << addNumbers(3,42) << std::endl;     //we can directly use this statement to get the sum.
 
 
     return 0;
